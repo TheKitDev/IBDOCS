@@ -1,6 +1,13 @@
 
 -!(Default prefix is !)!-
+
+
 --Moderation Commands -- 
 ban
 kick
 warn
+
+
+--Fun Commands--
+meme - pulls a random meme from the r/memes subreddit
+8ball - oh wise man, what do you have to tell me?
