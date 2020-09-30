@@ -13,3 +13,8 @@ meme - pulls a random meme from the r/memes subreddit
 8ball - oh wise man, what do you have to tell me?
 ship - displays ship
 
+--Image Commands--
+tweet
+cylde
+changemymind
+deepfry
