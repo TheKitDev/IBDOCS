@@ -1,0 +1,6 @@
+
+-!(Default prefix is !)!-
+--Moderation Commands -- 
+ban
+kick
+warn
